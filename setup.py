@@ -26,7 +26,7 @@
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 # To use a consistent encoding
-from codecs import open
+# from codecs import open
 from os import path
 __version__ = 1.0
 
